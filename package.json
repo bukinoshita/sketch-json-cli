@@ -1,0 +1,37 @@
+{
+  "name": "sketch-json-cli",
+  "version": "0.0.0",
+  "description": "Transform sketch files to json and json to sketch files",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/sketch-json-cli.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo"
+  },
+  "bin": {
+    "sketch-json": "index.js"
+  },
+  "keywords": [
+    "sketch",
+    "json",
+    "convert",
+    "versioning",
+    "version control",
+    "design"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "shout-error": "^0.0.2",
+    "shout-success": "^0.0.2",
+    "sketch-json": "^0.0.1",
+    "update-notifier": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
