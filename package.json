@@ -1,6 +1,6 @@
 {
   "name": "sketch-json-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform sketch files to json and json to sketch files",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/sketch-json-cli.git",
@@ -32,6 +32,8 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": ["prettier"]
+    "extends": [
+      "prettier"
+    ]
   }
 }
