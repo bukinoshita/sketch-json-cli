@@ -32,7 +32,7 @@ Options:
 ## Related
 
 - [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
-- [sketch-json](https://github.com/bukinoshita/sketch-json) — API for this module.
+- [sketch-json](https://github.com/bukinoshita/sketch-json) — API for this module
 - [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
 - [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
