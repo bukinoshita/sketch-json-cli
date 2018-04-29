@@ -24,7 +24,7 @@
     "meow": "^3.7.0",
     "shout-error": "^0.0.2",
     "shout-success": "^0.0.2",
-    "sketch-json": "^1.1.0",
+    "sketch-json": "^1.2.0",
     "update-notifier": "^2.2.0"
   },
   "devDependencies": {
