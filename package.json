@@ -1,6 +1,6 @@
 {
   "name": "sketch-json-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Transform sketch files to json and json to sketch files",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/sketch-json-cli.git",
