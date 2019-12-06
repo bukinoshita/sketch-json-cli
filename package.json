@@ -23,7 +23,7 @@
   "dependencies": {
     "meow": "^5.0.0",
     "shout-error": "^0.0.2",
-    "shout-success": "^0.0.2",
+    "shout-success": "^0.0.3",
     "sketch-json": "^1.2.0",
     "update-notifier": "^3.0.0"
   },
