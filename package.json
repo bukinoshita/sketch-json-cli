@@ -25,7 +25,7 @@
     "shout-error": "^0.0.2",
     "shout-success": "^0.0.2",
     "sketch-json": "^1.2.0",
-    "update-notifier": "^3.0.0"
+    "update-notifier": "^5.0.0"
   },
   "devDependencies": {
     "eslint-config-prettier": "6.4.0",
